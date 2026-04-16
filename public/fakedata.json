@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "https://i.ibb.co.com/wh77Q3dR/image.png",
+    "email": "david.kim@example.com",
+    "days_since_contact": 62,
+    "status": "Almost Due",
+    "tags": ["work", "college"],
+    "bio": "Former colleague from the marketing firm.",
+    "goal": 60,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "https://i.ibb.co.com/8DLbf0n8/image.png",
+    "email": "emma.w@example.com",
+    "days_since_contact": 2,
+    "status": "Overdue",
+    "tags": ["close friend"],
+    "bio": "Cousin living in Chicago. Needs a catch-up call.",
+    "goal": 30,
+    "next_due_date": "2026-03-15"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://i.ibb.co.com/N6HFxgCX/image.png",
+    "email": "lisa.n@example.com",
+    "days_since_contact": 8,
+    "status": "On-Track",
+    "tags": ["work", "mentor"],
+    "bio": "Project manager for the freelance contract.",
+    "goal": 30,
+    "next_due_date": "2026-03-15"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://i.ibb.co.com/MDWk9jXx/image.png",
+    "email": "j.wright@example.com",
+    "days_since_contact": 45,
+    "status": "Overdue",
+    "tags": ["hobby", "travel"],
+    "bio": "Met during the backpacking trip in Japan.",
+    "goal": 45,
+    "next_due_date": "2026-03-30"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Chen",
+    "picture": "https://i.ibb.co.com/FLZYVmCk/image.png",
+    "email": "sarahe223@example.com",
+    "days_since_contact": 31,
+    "status": "Almost Due",
+    "tags": ["work"],
+    "bio": "Design lead for current UI project.",
+    "goal": 14,
+    "next_due_date": "2026-03-01"
+  },
+  {
+    "id": 6,
+    "name": "Tom Baker",
+    "picture": "https://i.ibb.co.com/84dGmbT3/image.png",
+    "email": "tom.baker33@college.edu",
+    "days_since_contact": 7,
+    "status": "On-Track",
+    "tags": ["family"],
+    "bio": "Younger brother studying abroad.",
+    "goal": 90,
+    "next_due_date": "2026-05-15"
+  },
+  {
+    "id": 7,
+    "name": "Olivia Martinez",
+    "picture": "https://i.ibb.co.com/rKHBJBmn/image.png",
+    "email": "martinez.olivia@web.com",
+    "days_since_contact": 22,
+    "status": "Overdue",
+    "tags": ["sponser"],
+    "bio": "Mentor and lead developer.",
+    "goal": 90,
+    "next_due_date": "2026-06-01"
+  },
+  {
+    "id": 8,
+    "name": "Tony Stark",
+    "picture": "https://i.ibb.co.com/9mjfQ2Wh/image.png",
+    "email": "tonyStark11@example.com",
+    "days_since_contact": 9,
+    "status": "Almost Due",
+    "tags": ["mentor"],
+    "bio": "Cycling buddy and marathon enthusiast.",
+    "goal": 65,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 9,
+    "name": "Kim Minho",
+    "picture": "https://i.ibb.co.com/8Vsmdp8/image.png",
+    "email": "minho.k@personal.me",
+    "days_since_contact": 1,
+    "status": "On-Track",
+    "tags": ["work", "family"],
+    "bio": "Freelance client for the new React site.",
+    "goal": 70,
+    "next_due_date": "2026-04-24"
+  },
+ 
+  {
+    "id": 10,
+    "name": "Zynda Lee",
+    "picture": "https://i.ibb.co.com/6082jch1/image.png",
+    "email": "lee234.z@email.com",
+    "days_since_contact": 15,
+    "status": "Overdue",
+    "tags": ["hobby", "travel"],
+    "bio": "Photography enthusiast; met in Iceland.",
+    "goal": 100,
+    "next_due_date": "2026-07-10"
+  }
+]

@@ -6,7 +6,7 @@ const HeroSection = () => {
     <div className="bg-base-200">
       <div className="hero-content text-center w-10/12 mx-auto">
         <div className="max-w-3xl">
-          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold pt-[60px]">
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold pt-15">
             Friends to keep close in your life
           </h1>
           <p className="py-6 text-[#64748B] text-[19px] md:text-[21px] lg:text-[23px]">
@@ -21,7 +21,7 @@ const HeroSection = () => {
         </div>
       </div>
 
-      <div className="mt-[60px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 w-10/12 mx-auto gap-5 text-center">
+      <div className="mt-15 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 w-10/12 mx-auto gap-5 text-center">
         <div className="card bg-white card-xs shadow-sm">
         <div className="card-body p-6">
           <h2 className="font-semibold text-[#244D3F] text-[42px]">10</h2>
