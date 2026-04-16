@@ -11,7 +11,7 @@ useEffect(() =>{
             .catch(err => console.error("Error fetching data:", err));
     }, []);
     return (
-        <div className='bg-base-200'>
+        <div className='bg-base-200 pb-20'>
         <div className="p-10 w-11/12 mx-auto">
         <hr className="border-gray-200 shadow-sm mb-10" />
 
@@ -41,8 +41,8 @@ useEffect(() =>{
                         </div>
 
                         <div className={`badge badge-sm text-white border-none rounded-full px-4 py-4 font-semibold ${
-                            person.status === 'Overdue' ? 'bg-red-500' : 
-                            person.status === 'Almost Due' ? 'bg-orange-400' : 'bg-green-600'
+                            person.status === 'Overdue' ? 'bg-red-600' : 
+                            person.status === 'Almost Due' ? 'bg-yellow-500' : 'bg-green-950'
                         }`}>
                             {person.status}
                         </div>

@@ -42,7 +42,7 @@ const HeroSection = () => {
 
       <div className="card bg-white card-xs shadow-sm">
         <div className="card-body p-6">
-          <h2 className="font-semibold text-[#244D3F] text-[42px]">6</h2>
+          <h2 className="font-semibold text-[#244D3F] text-[42px]">4</h2>
           <p className="text-[#64748B] text-[22px]">
             Need Attention
           </p>
