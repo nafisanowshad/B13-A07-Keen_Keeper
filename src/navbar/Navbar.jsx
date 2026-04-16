@@ -6,8 +6,9 @@ import { PiChartLine } from "react-icons/pi";
 
 const Navbar = () => {
     return (
+        <div>
          <div className="w-11/12 mx-auto">
-    <div className="navbar bg-base-100">
+    <div className="navbar bg-white">
       <div className="navbar-start">
         <a className="text-[20px] md:text-[24px] lg:text-[27px] font-bold text-[#1F2937]">Keen<span className="text-[#244D3F]">Keeper</span></a>
       </div>
@@ -25,6 +26,8 @@ const Navbar = () => {
         </ul>
       </div>
     </div>
+     </div>
+    <hr className="border-gray-200 shadow-sm" />
      </div>
     );
 };
