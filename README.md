@@ -8,7 +8,7 @@
 
 ## ✨ Features
 
-- **1.Smart Relationship Dashboard**: Uses real-time status indicators (Overdue, Almost Due, On-Track) and client-side filtering to help you prioritize and manage meaningful connections.
+- **Smart Relationship Dashboard**: Uses real-time status indicators (Overdue, Almost Due, On-Track) and client-side filtering to help you prioritize and manage meaningful connections.
 
 - **Activity Timeline & Analytics**: Tracks interactions through a structured timeline, featuring interactive Pie Chart visualizations to analyze your social habits and engagement levels.
 
