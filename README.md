@@ -1,16 +1,41 @@
-# React + Vite
+# 📌 KeenKeeper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Project Overview
 
-Currently, two official plugins are available:
+**KeenKeeper** is a sophisticated React-based relationship management dashboard. It serves as your personal "shelf" of meaningful connections, allowing you to browse, tend, and nurture the relationships that matter most through activity tracking and data visualization.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **1.Smart Relationship Dashboard**: Uses real-time status indicators (Overdue, Almost Due, On-Track) and client-side filtering to help you prioritize and manage meaningful connections.
 
-## Expanding the ESLint configuration
+- **Activity Timeline & Analytics**: Tracks interactions through a structured timeline, featuring interactive Pie Chart visualizations to analyze your social habits and engagement levels.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Persistent Data Management**: Combines React Context API with Local Storage to ensure your data remains saved and accessible across browser sessions without needing a backend. 
+
+---
+
+## 🛠️ Technologies Used
+
+- **Core**: React.js (Vite)
+
+- **Routing**: React Router DOM (v6/v7)
+
+- **Styling**: Tailwind CSS & DaisyUI (Utility-first CSS)
+
+- **State Management**: React Context API
+
+- **Visualization**: Recharts (Interactive Pie Charts)
+
+- **Feedback**: React Toastify
+
+- **Loaders**: React Spinners
+
+- **Icons**: React Icons (Lucide, Remix)
+
+- **Persistence**: Local Storage API
+
+- **Deployment**: Netlify
+
+---
