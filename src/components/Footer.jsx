@@ -14,14 +14,14 @@ const Footer = () => {
         </p>
         <p className="text-[21px] md:text-[23px] lg:text-[25px] font-medium text-white">Social Links</p>
 
-        <div className="flex gap-3">
+        <div className="flex gap-5 lg:gap-6 pb-10">
           <img src={instra} alt="instragram logo" />
           <img src={fb} alt="facebook logo" />
           <img src={ttr} alt="twitter logo" />
         </div>
       </div>
 
-      <div className="footer grid grid-cols-1 md:grid-cols-2 opacity-80 w-10/12 mx-auto">
+      <div className="footer grid grid-cols-1 md:grid-cols-2 opacity-80">
         <div>
           <p>© 2026 KeenKeeper. All rights reserved.</p>
         </div>

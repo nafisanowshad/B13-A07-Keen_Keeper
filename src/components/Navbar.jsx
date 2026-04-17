@@ -3,6 +3,7 @@ import React from 'react';
 import { RiHome2Line } from "react-icons/ri";
 import { RiTimeLine } from "react-icons/ri";
 import { PiChartLine } from "react-icons/pi";
+import { Link, NavLink } from 'react-router';
 
 const Navbar = () => {
     return (
